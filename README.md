@@ -1,3 +1,5 @@
+<img src='https://github.com/geyzon-assis/geyzon-assis/blob/master/Simple%20Work%20LinkedIn%20Banner%20(2).png'/>
+
 - 👋  Olá, Eu me chamo Geyzon Assis
 - 👀 Sou um apaixonado por Data Science e todas suas implicações
 - 🌱 Atualmente estou estudando a respeito da exploração e visualização de dados, bem como modelos de Machine Learning
